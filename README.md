@@ -8,8 +8,11 @@ Implementation of the metrics from this paper:
 Generative Models"
 https://arxiv.org/pdf/1904.06991v1.pdf
 
-
 In Keras.
+
+*Note: This is an unofficial implementation. It is also less efficient, using CPU, and takes O(n^2) time. Feel free to contribute!
+
+
 
 # Use
 
