@@ -4,7 +4,10 @@ Precision and Recall GAN Evaluations using Manifolds
 
 Implementation of the metrics from this paper:
 
+"Improved Precision and Recall Metric for Assessing
+Generative Models"
 https://arxiv.org/pdf/1904.06991v1.pdf
+
 
 In Keras.
 
